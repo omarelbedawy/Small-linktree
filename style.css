@@ -3,11 +3,14 @@
     font-family: monospace;
     margin: 0%;
     padding: 0%;
+
 }
 body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
 }
 h1{
     margin: 50px;
